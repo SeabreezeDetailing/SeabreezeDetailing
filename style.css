@@ -5,15 +5,15 @@ html {
 }
 
 .header{
-  background-color:rgba(19,77,96,255);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color:rgba(223,159,69,255);
+  font-family: Blippo, fantasy;
   font-size: 80px;
   border-radius: 70px;
 }
 
 .subheader{
   background-color:rgba(223,159,69,255);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Blippo, fantasy;
   font-size: 50px;
   border-radius: 70px;
 }
