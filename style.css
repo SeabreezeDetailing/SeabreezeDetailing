@@ -12,7 +12,7 @@ html {
 }
 
 .subheader{
-  background-color:rgba(19,77,96,255);
+  background-color:rgba(223,159,69,255);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
   border-radius: 70px;
@@ -20,7 +20,7 @@ html {
 
 .Contact{
   width: 100%;
-  background-color: rgba(19,77,96,255);
+  background-color: rgba(223,159,69,255);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   float:right;
@@ -55,5 +55,5 @@ html {
   font-style: normal;
   font-family: monospace;
   color: white;
-  background-color: rgba(218,155,64,255);
+  background-color: rgba(15,79,90,255);
 }
