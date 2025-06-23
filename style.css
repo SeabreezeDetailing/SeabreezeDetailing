@@ -5,14 +5,14 @@ html {
 }
 
 .header{
-  background-color:aqua;
+  background-color:rgba(19,77,96,255);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 80px;
   border-radius: 70px;
 }
 
 .subheader{
-  background-color:aqua;
+  background-color:rgba(19,77,96,255);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
   border-radius: 70px;
@@ -20,7 +20,7 @@ html {
 
 .Contact{
   width: 100%;
-  background-color: aqua;
+  background-color: rgba(19,77,96,255);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   float:right;
@@ -29,7 +29,7 @@ html {
 
 .body_text{
   width: 100%;
-  background-color: lightgrey;
+  background-color: rgba(250,235,212,255);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   float:right;
@@ -55,5 +55,5 @@ html {
   font-style: normal;
   font-family: monospace;
   color: white;
-  background-color: black;
+  background-color: rgba(218,155,64,255);
 }
